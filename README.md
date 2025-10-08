@@ -60,6 +60,7 @@ Para clonar o repositório e começar a explorar os códigos:
 git clone [https://github.com/shinylucasin/aulas-python.git](https://github.com/shinylucasin/aulas-python.git)
 cd aulas-python
 ```
+---
 
 Recomenda-se o uso do **Visual Studio Code (VS Code)**, como visto na estrutura, mas qualquer IDE ou editor de texto para Python funcionará.
 
