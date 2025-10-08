@@ -57,7 +57,7 @@ Este projeto é pessoal, mas sinta-se à vontade para abrir uma **Issue** caso e
 Para clonar o repositório e começar a explorar os códigos:
 
 ```bash
-git clone [https://github.com/shinylucasin/aulas-python.git](https://github.com/shinylucasin/aulas-python.git)
+git clone https://github.com/shinylucasin/aulas-python.git
 cd aulas-python
 ```
 ---
