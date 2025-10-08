@@ -61,6 +61,6 @@ git clone [https://github.com/shinylucasin/aulas-python.git](https://github.com/
 cd aulas-python
 ```
 
-# Recomenda-se o uso do **Visual Studio Code (VS Code)**, como visto na estrutura, mas qualquer IDE ou editor de texto para Python funcionará.
+Recomenda-se o uso do **Visual Studio Code (VS Code)**, como visto na estrutura, mas qualquer IDE ou editor de texto para Python funcionará.
 
 Sinta-se à vontade para dar um "star" ⭐️ no repositório se o conteúdo for útil para você!
