@@ -1,4 +1,4 @@
-import pygal.maps.world
+import pygal.maps.world # pyright: ignore[reportMissingImports]
 
 # Crie um mapa mundi
 mapa_mundi = pygal.maps.world.World()
